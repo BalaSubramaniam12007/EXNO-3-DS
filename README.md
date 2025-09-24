@@ -65,6 +65,4 @@ We use this categorical data encoding technique when the features are nominal(do
 <img width="948" height="606" alt="Screenshot 2025-09-19 160918" src="https://github.com/user-attachments/assets/d0779594-b982-4eca-8448-6eaf80f342af" />
 
 # RESULT:
-Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
-
-       
+The dataset was read, cleaned, and processed using feature encoding and transformation techniques. The final transformed data was successfully saved to a file for further analysis.
